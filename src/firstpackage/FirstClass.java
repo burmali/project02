@@ -9,7 +9,7 @@ public class FirstClass {
 		System.out.println("Third commit from local master");
 		
 	System.out.println("Forth commit");
-
+         System.out.println("First commit");
 	}
 
 }
