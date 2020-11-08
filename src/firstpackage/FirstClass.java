@@ -11,9 +11,10 @@ public class FirstClass {
 	        System.out.println("Forth commit");
                 System.out.println("First commit");
 		System.out.println("Second commit");
-		System.out.println("Third commit")
-		System.out.println("Third commit")
+		System.out.println("Third commit");
+		System.out.println("Third commit");
 		System.out.println("hrere is the conflict  have from remote master branch");
+		System.out.println("Here is another conflict from local master branch");
 	}
 
 }
